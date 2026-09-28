@@ -1,0 +1,13 @@
+{
+  "name": "wcglass-netease-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small read-only NetEase Cloud Music proxy for WCGlass HTML cards",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
